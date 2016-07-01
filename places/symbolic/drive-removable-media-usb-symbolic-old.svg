@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drive-removable-media-usb-symbolic-old.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6" />
+  <path
+     style="fill:#bebebe"
+     d="m4.9284 0c-0.50273 0-0.90625 0.40352-0.90625 0.90625v12.188c0 0.50273 0.40352 0.90625 0.90625 0.90625h0.09375v2h5.9875v-2h0.09375c0.50273 0 0.90625-0.40352 0.90625-0.90625v-12.188c0.001-0.50248-0.403-0.906-0.906-0.906zm1.9875 2.0194h2.2c0.50273 0 0.90625 0.40352 0.90625 0.90625v8.1488c0 0.50273-0.40352 0.90625-0.90625 0.90625h-2.2c-0.50273 0-0.90625-0.40352-0.90625-0.90625v-8.1488c0-0.50273 0.40352-0.90625 0.90625-0.90625zm-0.9159 11.971h1v1h-1zm3 0h1v1h-1z"
+     id="path4" />
+</svg>

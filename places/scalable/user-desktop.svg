@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="96"
+   width="96"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-desktop.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="73.959208"
+     inkscape:cy="48"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4186">
+      <stop
+         style="stop-color:#d42aff;stop-opacity:1"
+         offset="0"
+         id="stop4188" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:0;"
+         offset="1"
+         id="stop4190" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4186"
+       id="linearGradient4192"
+       x1="37.127769"
+       y1="-5.5357399"
+       x2="88.579544"
+       y2="48.827587"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.28763666,0)" />
+  </defs>
+  <rect
+     style="opacity:1;fill:#4aaee8;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12000002"
+     id="rect4182"
+     width="83.529991"
+     height="62.234779"
+     x="5.9877367"
+     y="20.011293"
+     rx="11" />
+  <rect
+     rx="11"
+     y="20.011293"
+     x="5.7000999"
+     height="62.234779"
+     width="83.529991"
+     id="rect4184"
+     style="opacity:1;fill:url(#linearGradient4192);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12000002" />
+  <path
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12000002"
+     d="M 16.988281 20.011719 C 13.799836 20.011719 10.944946 21.362121 8.9394531 23.515625 L 86.566406 23.515625 C 84.560913 21.362121 81.706023 20.011719 78.517578 20.011719 L 16.988281 20.011719 z "
+     id="rect4194" />
+  <rect
+     id="rect59"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0.12000002"
+     rx="2.0731001"
+     height="6.8157001"
+     width="6.7835999"
+     y="69.689743"
+     x="28.442566" />
+  <rect
+     id="rect61"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0.12000002"
+     rx="2.0731001"
+     height="6.8157001"
+     width="6.7835999"
+     y="69.689743"
+     x="39.034565" />
+  <rect
+     id="rect63"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0.12000002"
+     rx="2.0731001"
+     height="6.8157001"
+     width="6.7835999"
+     y="69.689743"
+     x="49.616566" />
+  <rect
+     id="rect65"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0.12000002"
+     rx="2.0731001"
+     height="6.8157001"
+     width="6.7835999"
+     y="69.689743"
+     x="60.198563" />
+</svg>

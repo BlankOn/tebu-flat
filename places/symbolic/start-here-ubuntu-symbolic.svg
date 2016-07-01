@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3285"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="start-here-ubuntu-symbolic.svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview5" />
+  <metadata
+     id="metadata3293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3287"
+     style="fill:#ccc"
+     d="m8 6c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.582-8-8-8zm3.0278 2.3056c0.589 0 1.0556 0.49433 1.0556 1.0833 0 0.589-0.46655 1.0556-1.0556 1.0556-0.589 0-1.0833-0.46655-1.0833-1.0556 0-0.589 0.49433-1.0833 1.0833-1.0833zm-2.8613 1.0833c0.37508 0 0.76219 0.026459 1.1111 0.11111 0.07024 0.91752 0.81458 1.6667 1.75 1.6667 0.24542 0 0.4817-0.04885 0.69444-0.13889 0.60432 0.71965 0.97864 1.6179 1.0556 2.6111h-2.1389c-0.171-1.208-1.2173-2.139-2.4723-2.139-0.3117 0-0.6139 0.09-0.8889 0.194l-1.0556-1.8607c0.5961-0.2802 1.2426-0.4444 1.9445-0.4444zm-2.5834 0.7781 1.0834 1.861c-0.5961 0.455-0.9723 1.165-0.9723 1.972 0 0.78447 0.34913 1.488 0.91667 1.9444l-1.0555 1.834c-0.7826-0.545-1.4185-1.316-1.75-2.222 0.4773-0.357 0.8055-0.915 0.8055-1.556 0-0.63533-0.30808-1.1981-0.77778-1.5556 0.33673-0.92896 0.94281-1.7323 1.75-2.2778zm-2.9166 2.583c0.68717 0 1.25 0.56283 1.25 1.25s-0.56283 1.25-1.25 1.25-1.25-0.56283-1.25-1.25 0.56283-1.25 1.25-1.25zm7.9722 1.6111h2.1389c-0.07691 0.99318-0.45124 1.8915-1.0556 2.6111-0.21274-0.09003-0.44903-0.13889-0.69444-0.13889-0.93542 0-1.6798 0.74915-1.75 1.6667-0.34892 0.08465-0.73604 0.11111-1.1111 0.11111-0.72671 0-1.4157-0.1453-2.0278-0.44444l1.1109-1.861c0.2857 0.114 0.5903 0.194 0.9167 0.194 1.2551 0 2.3013-0.93074 2.4722-2.1389zm0.38889 3.1944c0.589 0 1.0556 0.46655 1.0556 1.0556 0 0.589-0.46655 1.0833-1.0556 1.0833-0.589 0-1.0833-0.49433-1.0833-1.0833 0-0.589 0.49433-1.0556 1.0833-1.0556z"
+     color="#000000"
+     transform="translate(0 -6)"
+     fill="#bebebe" />
+</svg>

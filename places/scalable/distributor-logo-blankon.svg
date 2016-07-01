@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="96"
+   width="96"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="distributor-logo-blankon.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g6"
+     transform="matrix(.90375 0 0 .90375 4.353 -859.95)">
+    <path
+       id="path8"
+       stroke="#fff"
+       stroke-width="11.863"
+       d="m69.671 1004.3c0 14.959-12.127 27.086-27.086 27.086s-27.086-12.127-27.086-27.086 12.127-27.086 27.086-27.086 27.086 12.127 27.086 27.086z"
+       fill="none" />
+    <path
+       id="path10"
+       stroke-linejoin="round"
+       d="m80.969 976.94h0.61572v55.466h-0.616z"
+       stroke="#f00"
+       stroke-linecap="round"
+       stroke-width="10.875"
+       fill="#a00" />
+  </g>
+</svg>

@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="16"
-   width="16"
+   height="24"
+   width="24"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="network-wired-disconnected-symbolic.svg">
+   sodipodi:docname="network-wired-disconnected.svg">
   <defs
      id="defs13" />
   <sodipodi:namedview
@@ -26,9 +26,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview11" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,29 +53,33 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <g
      id="layer9"
-     transform="translate(-201 -177)">
+     transform="matrix(0.87472118,0,0,0.87472118,-171.69145,-149.82565)">
     <g
        id="g4206"
-       style="opacity:.35"
-       transform="translate(181 -40)">
+       style="opacity:0.35"
+       transform="translate(181,-40)">
       <path
          id="rect4087"
-         d="m-35.25-40c-0.9522 0-1.75 0.7978-1.75 1.75v4.5c0 0.9522 0.7978 1.75 1.75 1.75h0.125l-0.78125 1.5625-0.71875 1.4375h1.625 5v-1h2.125l-0.21875-0.4375-0.781-1.562h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5zm0.25 2h6v4h-6v-4z"
-         style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe"
-         transform="translate(60,257)" />
+         d="m -35.25,-40 c -0.9522,0 -1.75,0.7978 -1.75,1.75 l 0,4.5 c 0,0.9522 0.7978,1.75 1.75,1.75 l 0.125,0 -0.78125,1.5625 -0.71875,1.4375 1.625,0 5,0 0,-1 2.125,0 -0.21875,-0.4375 -0.781,-1.562 0.125,0 c 0.9522,0 1.75,-0.7978 1.75,-1.75 l 0,-4.5 c 0,-0.9522 -0.7978,-1.75 -1.75,-1.75 l -6.5,0 z m 0.25,2 6,0 0,4 -6,0 0,-4 z"
+         style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe"
+         transform="translate(60,257)"
+         inkscape:connector-curvature="0" />
       <path
          id="path4091"
-         style="color:#bebebe;stroke:#bebebe;stroke-width:2;fill:#bebebe"
-         d="m88 199v1"
-         transform="translate(-60 30)" />
+         style="color:#bebebe;fill:#bebebe;stroke:#bebebe;stroke-width:2"
+         d="m 88,199 0,1"
+         transform="translate(-60,30)"
+         inkscape:connector-curvature="0" />
       <path
          id="path4093"
-         style="color:#bebebe;stroke:#bebebe;stroke-width:2;fill:#bebebe"
-         d="m22 231h8" />
+         style="color:#bebebe;fill:#bebebe;stroke:#bebebe;stroke-width:2"
+         d="m 22,231 8,0"
+         inkscape:connector-curvature="0" />
     </g>
     <path
        id="path3761-2-3-5-4-8-9-8-9-9"
        style="color:#bebebe;fill:#bebebe"
-       d="m212 188h1.375l1.125 1.0938 1.09-1.09h1.41v1.4688l-1.0938 1.0625 1.09 1.06v1.41h-1.44l-1.06-1.06-1.06 1.06h-1.44v-1.4062l1.0625-1.0625-1.06-1.06v-1.47z" />
+       d="m 212,188 1.375,0 1.125,1.0938 1.09,-1.09 1.41,0 0,1.4688 -1.0938,1.0625 1.09,1.06 0,1.41 -1.44,0 -1.06,-1.06 -1.06,1.06 -1.44,0 0,-1.4062 1.0625,-1.0625 -1.06,-1.06 0,-1.47 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

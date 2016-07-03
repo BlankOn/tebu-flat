@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="keyboard-brightness-symbolic.svg">
+   sodipodi:docname="keyboard-brightness.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview21" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,13 +52,13 @@
   <g
      id="layer9"
      style="display:inline"
-     transform="translate(-333.0004,462)">
+     transform="matrix(1.0890258,0,0,1.0890258,-359.35801,506.96223)">
     <rect
        height="1"
        id="rect2986-0"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        width="6"
        x="338.00021"
        y="-452" />
@@ -59,7 +67,7 @@
        id="rect2988-8-5"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        width="1"
        x="340.50021"
        y="-458" />
@@ -68,7 +76,7 @@
        id="rect2988-8-3"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        transform="matrix(0.25881905,0.96592583,-0.96592583,0.25881905,0,0)"
        width="1"
        x="-348.28226"
@@ -78,7 +86,7 @@
        id="rect2988-8-1"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        transform="matrix(0.25881905,-0.96592583,0.96592583,0.25881905,0,0)"
        width="1"
        x="523.79694"
@@ -88,7 +96,7 @@
        id="rect2988-8-6"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        transform="matrix(0.79851249,-0.60197824,0.60197824,0.79851249,0,0)"
        width="1"
        x="543.53882"
@@ -98,7 +106,7 @@
        id="rect2988-8-9"
        rx="0.25"
        ry="0.25"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        transform="matrix(0.80831027,0.58875675,-0.58875675,0.80831027,0,0)"
        width="1"
        x="9.3565512"
@@ -107,31 +115,31 @@
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="layer11"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="layer14"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-333.0004,462)" />
+     transform="matrix(1.0890258,0,0,1.0890258,-362.78597,510.15062)" />
 </svg>

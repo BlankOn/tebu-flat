@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="changes-allow-symbolic.svg">
+   sodipodi:docname="changes-allow.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview17" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview17"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,44 +57,46 @@
   <g
      id="layer9"
      style="display:inline"
-     transform="translate(-433.0004,542)">
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)">
     <path
        d="m 446.0004,-536 0,-2 c 0,-1.99486 -1.96353,-4 -4,-4 l -2,0 c -2.01566,0 -4,2.02594 -4,4 l 2,0 c 0,-0.66713 0.80108,-2 2,-2 l 2,0 c 1.15731,0 2,1.17009 2,2 l 0,2 z"
        id="path14466"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
        d="m 435.0004,-535 0,2.25 2.25,0 0,0.5 -2.25,0 0,1.25 0,0.25 2.25,0 0,0.5 -2.25,0 0,1.5 2.25,0 0,0.5 -2.25,0 0,0.25 0,0.5 c 0,0.831 0.669,1.5 1.5,1.5 l 9,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 0,-0.25 -2.25,0 0,-0.5 2.25,0 0,-1.5 -2.25,0 0,-0.5 2.25,0 0,-0.25 0,-1.25 -2.25,0 0,-0.5 2.25,0 0,-2.25 z"
        id="path14468"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="layer11"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="layer14"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-433.0004,542)" />
+     transform="matrix(0.875,0,0,0.875,-373.87959,478.1483)" />
 </svg>

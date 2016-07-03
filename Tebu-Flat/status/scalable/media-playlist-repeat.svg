@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16.000048"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="media-playlist-repeat-symbolic.svg">
+   sodipodi:docname="media-playlist-repeat.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview19" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.0000238"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,37 +53,38 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-273.00015,482)">
+     transform="matrix(0.875,0,0,0.875,-233.87518,426.75)">
     <path
        d="m 279.0002,-481 0,2 -1,0 c -2.77,0 -5,2.23 -5,5 0,2.77 2.23,5 5,5 l 0,-2 c -1.662,0 -3,-1.338 -3,-3 0,-1.662 1.338,-3 3,-3 l 1,0 0,2 4,-3 -4,-3 z m 5,2 0,2 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 l -1,0 0,-2 -4,3 4,3 0,-2 1,0 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z"
        id="rect3815"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="layer14"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-273.00015,482)" />
+     transform="matrix(0.875,0,0,0.875,-238.87513,431.625)" />
 </svg>

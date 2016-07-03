@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="computer-fail-symbolic.svg">
+   sodipodi:docname="computer-fail.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview17" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.0847458"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,44 +52,46 @@
   <g
      id="layer9"
      style="display:inline"
-     transform="translate(-455.0004,582)">
+     transform="matrix(0.93333333,0,0,0.93333333,-420.13371,547.26666)">
     <path
        d="m 459.0004,-581 c -1.662,0 -3,1.338 -3,3 l 0,6 c 0,1.662 1.338,3 3,3 l 8,0 c 1.662,0 3,-1.338 3,-3 l 0,-6 c 0,-1.662 -1.338,-3 -3,-3 l -8,0 z m 2,3 c 0.55833,0 1.03125,0.47292 1.03125,1.03125 l 0,0.96875 c 0,0.55833 -0.47292,1 -1.03125,1 -0.55833,0 -1,-0.44167 -1,-1 l 0,-0.96875 c 0,-0.55833 0.44167,-1.03125 1,-1.03125 z m 4,0 c 0.55833,0 1,0.47292 1,1.03125 l 0,0.96875 c 0,0.55833 -0.44167,1 -1,1 -0.55833,0 -1,-0.44167 -1,-1 l 0,-0.96875 c 0,-0.55833 0.44167,-1.03125 1,-1.03125 z m -2,4.03125 c 3.25585,0 5,0.87374 5,1.40625 l 0,0.5 c -0.99656,-0.6369 -4.01648,-0.90625 -5,-0.90625 -0.98352,0 -3.80457,-0.0621 -5,0.90625 l 0,-0.5 c 0,-0.68098 1.74415,-1.40625 5,-1.40625 z"
        id="rect3773-4"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
        d="m 463.0004,-568 c -5,0 -5,1 -5,1 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 0,0 0,-1 -5,-1 z"
        id="rect3778-3"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="layer11"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="layer14"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-455.0004,582)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-424.33371,551.96667)" />
 </svg>

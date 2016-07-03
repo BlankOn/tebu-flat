@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16.000187"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="microphone-sensitivity-muted-symbolic.svg">
+   sodipodi:docname="microphone-sensitivity-muted.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview21" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.0000935"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,45 +53,49 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-353.00021,562)">
+     transform="matrix(0.93332089,0,0,0.93332089,-325.39578,528.59311)">
     <path
        d="m 364.0004,-551 1.375,0 1.125,1.09375 1.09375,-1.09375 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
        id="path3761-2-3-5-4-8-9-8-0-9-0-4"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none"
+       inkscape:connector-curvature="0" />
     <path
        d="m 366.0004,-561 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m 0,1 c 0.55228,0 1,0.44771 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55229 0.44772,-1 1,-1 z"
        id="path40486"
-       style="opacity:0.5;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.2784189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.2784189;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
        d="m 366.0004,-556 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m 0,1 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
        id="path40492"
-       style="opacity:0.5;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.2784189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.2784189;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
        d="m 358.5002,-561 c -1.385,0 -2.5,1.115 -2.5,2.5 l 0,4.5 0,0.5 c 0,1.385 1.115,2.5 2.5,2.5 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-0.5 0,-4.5 c 0,-1.385 -1.115,-2.5 -2.5,-2.5 z m -4,6 c -0.27614,0 -0.5,0.22386 -0.5,0.5 l 0,0.96875 c 0,1.96838 1.25801,3.62455 3,4.25 l 0,1.28125 -0.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 0.5,0 3,0 0.5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -0.5,0 0,-1.28125 c 1.74199,-0.62545 3,-2.28162 3,-4.25 l 0,-0.96875 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 -0.27614,0 -0.5,0.22386 -0.5,0.5 0,0.069 0.006,0.12768 0.0312,0.1875 l 0,0.78125 c 0,1.96415 -1.57895,3.53125 -3.53125,3.53125 -1.9523,0 -3.5,-1.5671 -3.5,-3.53125 l 5e-5,-0.96875 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 z"
        id="path40494"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.00302994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.00302994;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
   <g
      id="layer14"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-353.00021,562)" />
+     transform="matrix(0.93332089,0,0,0.93332089,-329.39579,533.59321)" />
 </svg>

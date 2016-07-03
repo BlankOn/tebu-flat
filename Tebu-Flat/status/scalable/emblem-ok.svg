@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="16"
-   width="16"
+   height="24"
+   width="24"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="emblem-ok-symbolic.svg">
+   sodipodi:docname="emblem-ok.svg">
   <defs
      id="defs9" />
   <sodipodi:namedview
@@ -26,9 +26,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview7" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,10 +53,11 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <g
      id="layer15"
-     transform="translate(-461 -401)">
+     transform="matrix(1.258427,0,0,1.258427,-578.83148,-503.3699)">
     <path
        id="path5037"
-       style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#bebebe"
-       d="m472.94 404.94-4.94 4.94l-1.9375-1.9375-2.125 2.125 3 3 1.0625 1.0625 1.0625-1.0625 6-6-2.125-2.125z" />
+       style="color:#000000;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe"
+       d="m 472.94,404.94 -4.94,4.94 -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -14,9 +14,9 @@
    height="24"
    id="svg3899"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="audio-volume-muted-symbolic.svg">
+   sodipodi:docname="audio-volume-muted.svg">
   <sodipodi:namedview
-     pagecolor="#303030"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -24,20 +24,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1758"
-     inkscape:window-height="831"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview7"
-     showgrid="true"
+     showgrid="false"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     showborder="false"
+     showborder="true"
      inkscape:zoom="16"
-     inkscape:cx="11.926006"
-     inkscape:cy="9.3132048"
-     inkscape:window-x="102"
-     inkscape:window-y="102"
+     inkscape:cx="1.082256"
+     inkscape:cy="9.2194548"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3899">
     <inkscape:grid
@@ -54,12 +54,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
      style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.82310748;marker:none;enable-background:accumulate"
-     d="M 9 6 L 5 10 L 3 10 L 3 15 L 5 15 L 9 19 L 9 6 z M 12 10 L 12 11 L 13.5 12.5 L 12 14 L 12 15 L 13 15 L 14.5 13.5 L 16 15 L 17 15 L 17 14 L 15.5 12.5 L 17 11 L 17 10 L 16 10 L 14.5 11.5 L 13 10 L 12 10 z "
-     id="path3934-0-6-7" />
+     d="m 11.75,9.5 0,1 1.5,1.5 -1.5,1.5 0,1 1,0 1.5,-1.5 1.5,1.5 1,0 0,-1 -1.5,-1.5 1.5,-1.5 0,-1 -1,0 -1.5,1.5 -1.5,-1.5 -1,0 z"
+     id="path3934-0-6-7"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.82310748;marker:none;enable-background:accumulate"
+     d="m 9.3370999,6.52919 -3.3747646,3.374765 -1.6873823,0 0,4.218456 1.6873823,0 3.3747646,3.374764 0,-10.967985 z"
+     id="path4144" />
 </svg>

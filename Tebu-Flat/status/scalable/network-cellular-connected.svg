@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16.0002"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="network-cellular-connected-symbolic.svg">
+   sodipodi:docname="network-cellular-connected.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview20" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.0001001"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,41 +53,44 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-433.0002,501)">
+     transform="matrix(0.93333333,0,0,0.93333333,-399.13352,471.66667)">
     <path
        d="m 437.46895,-495 -0.46875,1 3,3 0,4 1,0 0,-4 3,-3 -0.375,-1 z m 0.90625,1 1.625,0 0,1.625 z m 2.625,0 1.625,0 -1.625,1.625 z"
        id="path3883"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
        d="m 433.0002,-498 3,4 -3,4 z"
        id="path30801"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
        d="m 448.0002,-498 -3,4 3,4 z"
        id="path30803"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
   <g
      id="layer14"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-433.0002,501)" />
+     transform="matrix(0.93333333,0,0,0.93333333,-404.13352,476.53333)" />
 </svg>

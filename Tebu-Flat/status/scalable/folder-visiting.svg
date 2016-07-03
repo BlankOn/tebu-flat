@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16.013103"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-visiting-symbolic.svg">
+   sodipodi:docname="folder-visiting.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview18" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.0065517"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,33 +53,34 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-293.0004,362)">
+     transform="matrix(0.875,0,0,0.875,-251.38681,321.76534)">
     <path
        d="m 294.7635,-361.00191 c -0.40685,0 -0.75,0.34315 -0.75,0.75 l 0,0.21875 -0.25,0 c -0.40685,0 -0.75,0.34315 -0.75,0.75 l 0,11.5 c 0,0.40685 0.34315,0.75 0.75,0.75 l 14.5,0 c 0.40685,0 0.75,-0.34315 0.75,-0.75 l 0,-11.5 c 0,-0.40685 -0.34315,-0.75 -0.75,-0.75 l -6.25,0 0,-0.21875 c 0,-0.40685 -0.34315,-0.75 -0.75,-0.75 z m 0.25,1 6,0 0,0.46875 0,0.5 0.5,0 6.5,0 0,11 -14,0 0,-11 0.5,0 0.5,0 0,-0.5 z"
        id="path22918"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
   <g
      id="layer14"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-293.0004,362)" />
+     transform="matrix(0.875,0,0,0.875,-256.37371,326.62085)" />
 </svg>

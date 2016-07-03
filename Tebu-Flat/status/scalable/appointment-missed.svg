@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="appointment-missed-symbolic.svg">
+   sodipodi:docname="appointment-missed.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview18" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.61016953"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,48 +52,51 @@
   <g
      id="layer9"
      style="display:inline"
-     transform="translate(-453.0004,402)">
+     transform="matrix(0.87501367,0,0,0.87501367,-391.38154,355.88037)">
     <path
        d="M 459.40625,-397 A 0.50005,0.50005 0 0 0 459,-396.5 l 0,2.5 -1.5,0 a 0.50005,0.50005 0 1 0 0,1 l 2,0 a 0.50005,0.50005 0 0 0 0.5,-0.5 l 0,-3 a 0.50005,0.50005 0 0 0 -0.59375,-0.5 z"
        id="path4639-4-4-7"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
        d="m 464.00015,-391 1.375,0 1.125,1.09375 1.09375,-1.09375 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
        id="path3761-2-3-5-4-8-9-8-0-1-6"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none"
+       inkscape:connector-curvature="0" />
     <path
        d="m 459.5004,-400 c -3.57801,0 -6.5,2.92199 -6.5,6.5 0,3.57801 2.92199,6.5 6.5,6.5 1.29116,0 2.48506,-0.37561 3.5,-1.03125 l 0,-2.65625 c -0.82069,1.02721 -2.071,1.6875 -3.5,1.6875 -2.49713,0 -4.5,-2.00287 -4.5,-4.5 0,-2.49712 2.00287,-4.5 4.5,-4.5 2.49712,0 4.5,2.00288 4.5,4.5 0,0.53296 -0.11393,1.02721 -0.28125,1.5 l 2.09375,0 c 0.11483,-0.48186 0.1875,-0.98435 0.1875,-1.5 0,-3.57801 -2.922,-6.5 -6.5,-6.5 z"
        id="path3869-9"
-       style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.54545426;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:xx-small;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.54545426;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="layer11"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="layer14"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-453.0004,402)" />
+     transform="matrix(0.87501367,0,0,0.87501367,-396.54821,361.90111)" />
 </svg>

@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
+   height="24"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="24"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="media-playlist-shuffle-symbolic.svg">
+   sodipodi:docname="media-playlist-shuffle.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,9 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview19" />
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,37 +53,38 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-313.00015,482)">
+     transform="translate(-309.00015,486)">
     <path
        d="m 324.00015,-480 0,2 c -2.98103,0 -6.02422,6 -8,6 l -2,0 0,2 2,0 c 2.99366,0 5.99591,-6 8,-6 l 0,2 4,-3 z m -10,2 0,2 2,0 c 0.58158,0 1.26226,0.54756 2,1.28125 0.12045,-0.13122 0.25181,-0.24972 0.375,-0.375 0.30725,-0.32527 0.62752,-0.66346 0.9375,-1 C 318.2407,-477.14844 317.12277,-478 316.00015,-478 l -2,0 z m 10,4 0,2 c -0.59135,0 -1.29196,-0.54474 -2.03125,-1.28125 -0.42399,0.45527 -0.85717,0.91598 -1.28125,1.375 1.0758,1.05469 2.19461,1.90625 3.3125,1.90625 l 0,2 4,-3 -4,-3 z"
        id="rect3815-7-4"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer10"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="layer13"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="layer14"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="g4953"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-313.00015,482)" />
+     transform="translate(-313.00015,490)" />
 </svg>

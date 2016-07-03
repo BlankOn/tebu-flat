@@ -13,7 +13,7 @@
    id="svg193"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="synaptic.svg">
+   sodipodi:docname="gnome-app-install.svg">
   <metadata
      id="metadata506">
     <rdf:RDF>
@@ -38,9 +38,9 @@
      inkscape:window-height="716"
      id="namedview504"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="56.772015"
-     inkscape:cy="44.934958"
+     inkscape:zoom="2.4583334"
+     inkscape:cx="50.490703"
+     inkscape:cy="51.267583"
      inkscape:current-layer="svg193"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -124,4 +124,9 @@
      style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.12"
      d="m 48.74707,62.410155 0,14.3086 c 0.31944,-5e-4 0.63773,-0.055 1.04102,-0.2266 l 11.54687,-4.5742 c 0.51181,-0.2761 0.84745,-0.8162 0.90625,-1.3574 l 0.54297,-7.6074 -8.48828,2.9648 c -1.14673,0.3739 -2.06294,0.087 -2.78711,-0.7461 l -2.76172,-2.7617 z"
      id="path3432" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.04705882"
+     d="m 18.697674,8.4651161 c -5.668837,0 -10.232558,4.5637209 -10.232558,10.2325579 l 0,58.604652 c 0,5.668837 4.563721,10.232558 10.232558,10.232558 l 58.604652,0 c 5.668837,0 10.232558,-4.563721 10.232558,-10.232558 l 0,-58.604652 c 0,-5.668837 -4.563721,-10.2325579 -10.232558,-10.2325579 l -58.604652,0 z m 2.043969,2.7579949 54.516714,0 c 5.273338,0 9.518532,4.245194 9.518532,9.518532 l 0,54.516714 c 0,5.273338 -4.245194,9.518532 -9.518532,9.518532 l -54.516714,0 c -5.273338,0 -9.518533,-4.245194 -9.518533,-9.518532 l 0,-54.516714 c 0,-5.273338 4.245195,-9.518532 9.518533,-9.518532 z"
+     id="rect4449"
+     inkscape:connector-curvature="0" />
 </svg>

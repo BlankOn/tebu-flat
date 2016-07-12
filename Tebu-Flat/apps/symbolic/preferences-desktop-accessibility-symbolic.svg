@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="preferences-desktop-accessibility-symbolic.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 12,5 c -3.8660125,0 -7,3.1339875 -7,7 0,3.866013 3.1339875,7 7,7 3.866013,0 7,-3.133987 7,-7 0,-3.8660125 -3.133987,-7 -7,-7 z m 0,1.7003 c 0.981137,0 1.776337,0.7952 1.776337,1.7763375 0,0.9811375 -0.7952,1.7763375 -1.776337,1.7763375 -0.981137,0 -1.776337,-0.7952 -1.776337,-1.7763375 C 10.223663,7.4955 11.018863,6.7003 12,6.7003 Z m -4.197725,3.605175 c 2.805862,-0.04007 5.611287,-0.01347 8.417062,0.0099 0,0 0.377055,-0.007 0.377055,0.371071 l 0,0.182533 c 0,0.20125 -0.2065,0.25375 -0.2065,0.25375 l -2.612049,0.505899 0,1.847038 1.185362,3.4181 c 0.1197,0.197505 -0.138591,0.253925 -0.138591,0.253925 l -0.460688,0.0044 c -0.221523,0 -0.304578,-0.186402 -0.304578,-0.186402 l -1.812825,-3.14265 C 12.052028,13.381914 12.039874,13.438168 11.8558,13.823675 L 9.9580125,16.9616 c -0.063473,0.190435 -0.31115,0.194591 -0.31115,0.194591 L 9.14785,17.148316 c 0,0 -0.18242,-0.0053 -0.1405687,-0.183032 l 1.2140627,-3.4902 0,-1.847038 -2.5304127,-0.48545 c -0.2033938,-0.06886 -0.287735,-0.257547 -0.287735,-0.257547 l 0,-0.190435 c 0,0 -0.00849,-0.388001 0.3987112,-0.388001 z"
+     style="fill:#eeeeee"
+     id="path3850" />
+</svg>

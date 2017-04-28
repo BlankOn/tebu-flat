@@ -11,7 +11,11 @@
    height="96"
    width="96"
    version="1.1"
+<<<<<<< HEAD
    inkscape:version="0.91 r13725"
+=======
+   inkscape:version="0.92.0 r15299"
+>>>>>>> blankon/master
    sodipodi:docname="haroopad.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,7 +31,11 @@
      id="namedview81"
      showgrid="false"
      inkscape:zoom="5.1951496"
+<<<<<<< HEAD
      inkscape:cx="26.076901"
+=======
+     inkscape:cx="55.912423"
+>>>>>>> blankon/master
      inkscape:cy="49.264588"
      inkscape:window-x="0"
      inkscape:window-y="24"

@@ -1,0 +1,3 @@
+[submodule "Tebu-Flat/data"]
+	path = Tebu-Flat/data
+	url = https://github.com/winardiaris/tebu-flat-data.git
